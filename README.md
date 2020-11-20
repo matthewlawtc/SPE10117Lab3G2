@@ -6,4 +6,4 @@
 
 [printBigK.py](printBigK.py)
 
-[output.md](lab4q3)
+[output.md](lab4q3.py)
